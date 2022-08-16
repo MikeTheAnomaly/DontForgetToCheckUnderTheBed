@@ -3,7 +3,27 @@ guid: 863bd9c839b4d1944b0f5b8ee3126e0d
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FabricUpholsteryMidCenturyPebbles001_2K
+    second: {fileID: 2100000, guid: df05eb71badb0f240aba3f5be534e0b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8732c129f2bbe8547b502e397b952870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFlooringMerbauBrickBondNatural001_2K
+    second: {fileID: 2100000, guid: 4603daa3ed1ef5c4fa3e0f93ebb8ce5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodQuarteredChiffon001_2K
+    second: {fileID: 2100000, guid: f438b731619ca2444b69dff856b5f086, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
